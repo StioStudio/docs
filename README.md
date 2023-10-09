@@ -1,7 +1,21 @@
 # docs
 
-The docs for main page, project, asset, Aioewa, and continue.
+Updated 21:25 (UTC +02:00) 07.10.2023
 
-Documentation: [docs.stio.studio](https://docs.stio.studio)
-<br>
-Main page: [stio.studio](https://stio.studio)
+This is documentation for everything under https://stio.studio
+
+
+## Existing links:
+* main
+    * https://stio.studio
+    * https://project.stio.studio/
+    * https://asset.stio.studio/
+    * https://share.stio.studio/
+    * https://docs.stio.studio/
+    * https://wiki.stio.studio/
+    * https://credits.stio.studio/
+* Subshare
+    * https://nikeedev.stio.studio/
+    * https://sychamis.stio.studio/
+    * https://stio_studio.stio.studio/
+
