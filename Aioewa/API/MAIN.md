@@ -4,7 +4,12 @@ aw:
 ```js
 console.log(aw)
 ```
-
+addon:
+```js
+export async function -theRunFunction-({addon}) {
+   console.log(addon)
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDIzNTg2XX0=
+eyJoaXN0b3J5IjpbMTI0MjcwNDc5Nl19
 -->
