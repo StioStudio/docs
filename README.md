@@ -4,8 +4,6 @@ Updated 21:25 (UTC +02:00) 07.10.2023
 
 This is documentation for everything under https://stio.studio
 
-hello there
-
 ## Existing links:
 * main
     * https://stio.studio
@@ -21,5 +19,5 @@ hello there
     * https://stio_studio.stio.studio/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjE4MTM5OF19
+eyJoaXN0b3J5IjpbLTY0NzUwNTc0NF19
 -->
